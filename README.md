@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning web devlopment<br>💬 Ask me about c,c++,Data structures<br>📫 How to reach me yuvrajrasal13@gmail.com 
+🌱 I’m currently learning web devlopment specifically React <br>💬 Ask me about c,c++,Data structures<br>📫 How to reach me yuvrajrasal13@gmail.com 
 
 
 ## 🌐 Socials:
